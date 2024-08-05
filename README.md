@@ -29,7 +29,7 @@
 
 - 🌱 I am currently in the **last semester of my technical degree and I'm taking a ReactJS course.**
 
-- ☁️ I am interested in finding a job as a **front-end developer.**
+- ☁️ I am interested in finding a job as a **back-end developer.**
 
 - 📝 I regularly try to stay active by **learning about new topics.**
 
