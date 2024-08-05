@@ -1,3 +1,19 @@
+ <style>
+    .skills-container {
+      text-align: center;
+    }
+    
+    .skill {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 10px 0;
+    }
+    
+    .skill img {
+      margin-right: 10px;
+    }
+ </style>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -5,7 +21,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Marcos</h1></summary>
+    <summary><h1 style="display: inline-block">👋 Hey there! I'm Marcos Rodriguez</h1></summary>
   </ul>
 </div>
 
@@ -39,7 +55,25 @@
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
 <!--Intro end-->
 
-
+<div class="skills-container">
+  <h2>Mis Habilidades</h2>
+  <div class="skill">
+    <img src="https://img.shields.io/badge/HTML-90%25-brightgreen" alt="HTML">
+    <span>HTML - 90%</span>
+  </div>
+  <div class="skill">
+    <img src="https://img.shields.io/badge/CSS-80%25-blue" alt="CSS">
+    <span>CSS - 80%</span>
+  </div>
+  <div class="skill">
+    <img src="https://img.shields.io/badge/JavaScript-70%25-yellow" alt="JavaScript">
+    <span>JavaScript - 70%</span>
+  </div>
+  <div class="skill">
+    <img src="https://img.shields.io/badge/React-60%25-cyan" alt="React">
+    <span>React - 60%</span>
+  </div>
+</div>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
