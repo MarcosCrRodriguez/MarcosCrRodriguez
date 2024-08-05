@@ -10,10 +10,10 @@
 </div>
 
 
-<!--- snake -->
+<!--- icon -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="https://cdn-icons-png.flaticon.com/512/560/560277.png"
+       alt="icon" height="100" width="100" /></a>
 </div>
 
 
