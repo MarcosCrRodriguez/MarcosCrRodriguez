@@ -1,20 +1,3 @@
- <style>
-    .skills-container {
-      text-align: center;
-    }
-    
-    .skill {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      margin: 10px 0;
-    }
-    
-    .skill img {
-      margin-right: 10px;
-    }
- </style>
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -55,26 +38,6 @@
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
 <!--Intro end-->
 
-<div class="skills-container">
-  <h2>Mis Habilidades</h2>
-  <div class="skill">
-    <img src="https://img.shields.io/badge/HTML-90%25-brightgreen" alt="HTML">
-    <span>HTML - 90%</span>
-  </div>
-  <div class="skill">
-    <img src="https://img.shields.io/badge/CSS-80%25-blue" alt="CSS">
-    <span>CSS - 80%</span>
-  </div>
-  <div class="skill">
-    <img src="https://img.shields.io/badge/JavaScript-70%25-yellow" alt="JavaScript">
-    <span>JavaScript - 70%</span>
-  </div>
-  <div class="skill">
-    <img src="https://img.shields.io/badge/React-60%25-cyan" alt="React">
-    <span>React - 60%</span>
-  </div>
-</div>
-
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -82,14 +45,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=MarcosCrRodriguez&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosCrRodriguez&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MarcosCrRodriguez&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -99,7 +62,7 @@
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=MarcosCrRodriguez&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
@@ -145,7 +108,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MarcosCrRodriguez&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
