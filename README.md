@@ -33,7 +33,7 @@
 
 - 📝 I regularly try to stay active by **learning about new topics.**
 
-- 📫 Feel free to reach me out <a href="https://portfolio-react-crod.netlify.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>.
+- 📫 Feel free to reach me out <a href="https://mr-portfoliopersonal.netlify.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>.
 
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [marcos_crod](https://discordapp.com/users/957722095381540874) my username!
 <!--Intro end-->
