@@ -1,121 +1,151 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- ============================== -->
+<!--        PROFILE HEADER          -->
+<!-- ============================== -->
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">👋 Hey there! I'm Marcos Rodriguez</h1></summary>
-  </ul>
-</div>
-
-
-<!--- icon -->
 <div align="center">
-  <img  src="https://cdn-icons-png.flaticon.com/512/560/560277.png"
-       alt="icon" height="100" width="100" /></a>
+
+# Hi, I'm Marcos Rodriguez 👋
+
+### Full Stack Software Engineer
+
+Building web and mobile products from concept to production — across frontend, backend, architecture, integrations, and deployment.
+
 </div>
 
+<br/>
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h3 style="display: inline-block">As a passionate and proactive front-end developer, I am committed to leveraging cutting-edge technologies and solving complex problems with creative and efficient solutions. My dynamic approach and tech-savvy mindset ensure that I stay ahead in the ever-evolving world of programming.</h3></summary>
-  </ul>
-</div>
+---
 
+## About Me
 
-<!--Intro start-->
-- 🔭 I am currently working as a **teaching assistant at UTN (National University of Technology).**
+I'm a Full Stack Software Engineer focused on building real digital products from idea to production.
 
-- 🌱 I am currently in the **last semester of my technical degree and I'm taking a ReactJS course.**
+My experience spans **web, mobile, backend development, system architecture, integrations, testing, deployment, and product iteration**.
 
-- ☁️ I am interested in finding a job as a **back-end developer.**
+I've worked across fintech, AI-powered products, mobile applications, automation, Web3, and custom software solutions, with a strong focus on technical ownership and product execution.
 
-- 📝 I regularly try to stay active by **learning about new topics.**
+<br/>
 
-- 📫 Feel free to reach me out <a href="https://mr-portfoliopersonal.netlify.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>.
+---
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [marcos_crod](https://discordapp.com/users/957722095381540874) my username!
-<!--Intro end-->
+<div align="center">
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
+## GitHub Analytics
+
+<table>
+<tr>
+
 <td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=MarcosCrRodriguez&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosCrRodriguez&theme=dark&hide_border=false" /> 
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcosCrRodriguez&theme=github_dark"
+  width="100%"
+  alt="GitHub Stats"
+/>
+
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MarcosCrRodriguez&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcosCrRodriguez&theme=github_dark"
+  width="100%"
+  alt="Top Languages by Repository"
+/>
+
+</td>
+
 </tr>
 </table>
-<!--- stats (end) -->
 
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=MarcosCrRodriguez&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,c,php,py,html,css,js,ts,react,angular,firebase,mysql,git,github,vscode,visualstudio,eclipse,sublime,dotnet,postman,discord,figma,linux&perline=14" />
-  </a>
-</p>
-
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
 </div>
 
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/marcos-cruz-rodriguez-3151a2230/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://x.com/CrRodriguez_99" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/marcos_crod/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
-</p>
+<br/>
 
+---
 
-<!--profile visit count-->
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=MarcosCrRodriguez&icon=3&color=6)](https://visitcount.itsvg.in)
-  
+
+## Technologies & Tools
+
+### Languages
+
+<a href="https://skillicons.dev">
+  <img
+    src="https://skillicons.dev/icons?i=ts,js,py,java,cs&perline=10"
+    alt="Programming Languages"
+  />
+</a>
+
+<br/><br/>
+
+### Frontend & Mobile
+
+<a href="https://skillicons.dev">
+  <img
+    src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind,bootstrap&perline=10"
+    alt="Frontend Technologies"
+  />
+</a>
+
+<br/><br/>
+
+### Backend & Data
+
+<a href="https://skillicons.dev">
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,postgres,mongodb&perline=10"
+    alt="Backend and Data Technologies"
+  />
+</a>
+
+<br/><br/>
+
+### Development, Design & Platforms
+
+<a href="https://skillicons.dev">
+  <img
+    src="https://skillicons.dev/icons?i=git,github,npm,vscode,visualstudio,eclipse,androidstudio,postman,figma,godot,vercel,netlify,linux&perline=13"
+    alt="Development Tools and Platforms"
+  />
+</a>
+
 </div>
 
+<br/>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-----------------------------------------------------------------------
-Credit: [MarcosCrRodriguez](https://github.com/MarcosCrRodriguez)
+<div align="center">
 
-Last Edited on: 03/09/2024
+## Connect With Me
+
+<a href="https://www.linkedin.com/in/marcos-cruz-rodriguez-3151a2230/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Marcos%20Rodriguez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="mailto:programmer.crod@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-programmer.crod%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+<a href="https://discordapp.com/users/957722095381540874">
+  <img
+    src="https://img.shields.io/badge/Discord-marcos__crod-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+    alt="Discord"
+  />
+</a>
+
+<br/><br/>
+
+<img
+  src="https://komarev.com/ghpvc/?username=MarcosCrRodriguez&style=flat-square"
+  alt="Profile Views"
+/>
+
+</div>
